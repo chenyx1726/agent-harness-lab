@@ -1,0 +1,4 @@
+# 本檔所有值皆為假資料，不是任何真實系統的設定。
+database:
+  host: db.example.invalid
+  password: example-not-a-real-password

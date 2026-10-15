@@ -1,0 +1,9 @@
+[project]
+name = "agent-harness-lab"
+version = "0.1.0"
+description = "A tiny order service used to practise Coding Agent harness engineering."
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.ruff]
+line-length = 100
